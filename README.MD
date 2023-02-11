@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="Arch.jpg">
+  <img src="Arch.jpg" width="400"/
+>
 </p>
 
 
